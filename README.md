@@ -1,2 +1,2 @@
-# kickstarter-analysis
+# DANG kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends 
